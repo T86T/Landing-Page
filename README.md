@@ -12,5 +12,10 @@ Get your project as close as you can to the design, but do not worry about getti
 
 Finally, feel free to substitute your own content into this design. The images have some meaningless dummy content, but if you want to make up a business and personalize this page, please feel free to do so! Insert actual images in the placeholders, and feel free to play with the colors and fonts a bit too.
 
-![Colors, fonts and styles for landing page](img/colors-fonts-styles.png)
+
+:point_down: Design Brief :point_down:
 ![Landing page design brief](img/website-design-brief.png)
+
+
+:point_down: Colors, fonts and styles :point_down:
+![Colors, fonts and styles for landing page](img/colors-fonts-styles.png)
