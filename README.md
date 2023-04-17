@@ -19,3 +19,27 @@ Finally, feel free to substitute your own content into this design. The images h
 
 :point_down: Colors, fonts and styles :point_down:
 ![Colors, fonts and styles for landing page](img/colors-fonts-styles.png)
+
+live preview here:  https://t86t.github.io/Landing-page
+
+
+
+Accreditations:
+
+Logo image-
+Image by Darwin Laganzon from Pixabay 
+
+Retro arcade machine image-
+Image by Jazella from Pixabay 
+
+Nintendo Entertainment System image-
+Image by Robin from Pixabay 
+
+Mega Drive  imagge-
+Image by WikimediaImages from Pixabay 
+
+Playstaion image-
+Image by WikimediaImages from Pixabay 
+
+Game Boy image-
+Image by Ptra from Pixabay 
