@@ -20,8 +20,7 @@ Finally, feel free to substitute your own content into this design. The images h
 :point_down: Colors, fonts and styles :point_down:
 ![Colors, fonts and styles for landing page](img/colors-fonts-styles.png)
 
-live preview here:  https://t86t.github.io/Landing-page
-
+live preview here: https://t86t.github.io/Landing-Page/
 
 
 Accreditations:
