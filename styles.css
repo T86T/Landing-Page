@@ -129,4 +129,12 @@ body {
     font-family: 'Courier New', Courier, monospace;
     display: flex;
     flex-direction: column;
+    height: 100%;
+}
+
+.footer  {
+    background-color: #1f2937;
+    color: #f9faf8;
+    text-align: center;
+    flex-shrink: 0;
 }
