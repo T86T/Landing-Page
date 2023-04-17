@@ -88,3 +88,20 @@ button {
    max-width: 200px;
 }
 
+.quote {
+    background-color: #e5e7eb;
+    font-size: 36px;
+    color: #1f2937;
+    font-style: italic;
+    padding: 100px;
+}
+
+div.quote .name {
+    font-weight: 800;
+    text-align: end;
+   
+}
+div.quote p {
+    margin-left: 100px;
+    margin-right: 100px;
+}
